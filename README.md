@@ -4,7 +4,8 @@ Project about showing the Global Data of Covid 19,
 Corona Virus Cases Globally,
 Showing the Data Countrywise depending upon the selection from Dropdown
 
-Used - Material UI, React JS
+Developed using - Material UI, React JS
+For showing Charts - Charts.js is used
 
 # Getting Started with Create React App
 
