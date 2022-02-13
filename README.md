@@ -6,8 +6,6 @@ Showing the Data Countrywise depending upon the selection from Dropdown
 
 Used - Material UI, React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
